@@ -1,10 +1,9 @@
 ## <p align="center"> Hello there 👋! </p>
-### <p align="center"> I'm Rahaf Al-Jazzai, Welcome to my github account  </p>
 ---
-### <p align="center"> 💭 &nbsp; **Contact Me here:** </p>
 
-<p align="center"><a  href="https://www.linkedin.com/in/rahaf-al-jazzazi-28635111a/"><img width="20%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
-<br/>
+### <p align="center"> I'm Rahaf Al-Jazzai, Welcome to my github account  </p>
+
+<img src="https://cdn.svgator.com/images/2021/10/solar-system-animation.svg">
 
 ---
 
@@ -26,5 +25,12 @@
 <br/>
 
 <p  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahafJ96&theme=tokyonight&layout=compact" width="60%"/></p>
+
+---
+### <p align="center"> 💭 &nbsp; **Contact Me here:** </p>
+
+<p align="center"><a  href="https://www.linkedin.com/in/rahaf-al-jazzazi-28635111a/"><img width="30%" src="https://cdn.svgator.com/images/2021/08/Linked-in-logo-animation.gif" /></a></p>
+
+<br/>
 
 ---
