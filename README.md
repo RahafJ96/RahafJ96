@@ -1,12 +1,15 @@
-## Hi there 👋
-
-### I'm Rahaf Al-Jazzai, Welcome to my github account 
-<hr/>
+## <p align="center"> Hello there 👋! </p>
+### <p align="center"> I'm Rahaf Al-Jazzai, Welcome to my github account  </p>
+---
+<br/>
 
 ### 💭 &nbsp; **Contact Me here:** 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center" />](https://www.linkedin.com/in/rahaf-al-jazzazi-28635111a/)
+[<img  align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  />](https://www.linkedin.com/in/rahaf-al-jazzazi-28635111a/)
 
 <br/>
+<br/>
+
+---
 <br/>
 
 ### 👩‍💻 &nbsp; **Tech Stack**
@@ -18,9 +21,14 @@
 <br/>
 <br/>
 
-### 📡 &nbsp; Git Analytics
+---
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=RahafJ96&theme=tokyonight&show_icons=true" width="60%"/></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahafJ96&theme=tokyonight&layout=compact" width="60%"/></p>
+### 📡 &nbsp; **Git Analytics**
+<br/>
+
+<p  align="center">&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=RahafJ96&theme=tokyonight&show_icons=true" width="60%"/></p>
+<br/>
+
+<p  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahafJ96&theme=tokyonight&layout=compact" width="60%"/></p>
 
 ---
