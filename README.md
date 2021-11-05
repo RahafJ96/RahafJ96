@@ -17,3 +17,10 @@
 
 <br/>
 <br/>
+
+### 📡 &nbsp; Git Analytics
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=RahafJ96&theme=tokyonight&show_icons=true" width="100%"/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahafJ96&theme=tokyonight&layout=compact" width="100%"/></p>
+
+---
