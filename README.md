@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HI](https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/231/among-us-player-white-256.png)
 
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/231/among-us-player-white-256.png" />](www.google.com)
-<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/231/among-us-player-white-256.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/231/among-us-player-white-256.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/231/among-us-player-white-256.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/231/among-us-player-white-256.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/231/among-us-player-white-256.png" />
+
+ [![<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/231/among-us-player-white-256.png" />](www.google.com)](www.google.com)
